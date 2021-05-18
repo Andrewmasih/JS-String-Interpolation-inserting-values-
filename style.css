@@ -1,0 +1,12 @@
+body {
+  color: aqua;
+  background-color: purple;
+}
+
+h1 {
+  text-align: center;
+  position: relative;
+  top: 120px;
+  font-family: sans-serif;
+  
+}
